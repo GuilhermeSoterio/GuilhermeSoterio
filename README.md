@@ -18,6 +18,6 @@ Student of web systems at the Federal Institute of Brasilia, I program and study
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 <p tex-Align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoterio&show_icons=true&theme=gruvbox">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoterio&layout=compact&theme=gruvbox">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoterio&show_icons=true&theme=synthwave">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoterio&layout=compact&theme=synthwave">
  </p>
