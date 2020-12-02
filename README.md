@@ -1,7 +1,7 @@
 <h2>Hello, I Am Guilherme! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
 <p tex-Align="center">
 <img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="GuilhermeSoterio" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: He/him" /> </p>
-Student of web systems at the Federal Institute of Brasilia, I program and study the latest technologies for website development and computing solutions. Always updating my repertoire of Front-End languages, I seek to refine my projects to not only meet the needs of the market, but generate value and improvements in people's lives.
+Web Systems Student at the Federal Institute of Brasília. My priority today is my professional development. With a stack focused on web development: Javascript, React, Java, Spring, GoLang, pre-processors like Sass and Less and automation tools like Gulp. I seek an opportunity to generate value and deliver results.
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Java](https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java)
