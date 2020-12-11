@@ -1,7 +1,5 @@
 <img src="1.png" width="100%" /> 
-<h2>Hello<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px"></h2>
-<p tex-Align="center">
-<img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="GuilhermeSoterio" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: He/him" /> </p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="GuilhermeSoterio" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: He/him" /> </p>
 <center>
 <table>
   <tr>
