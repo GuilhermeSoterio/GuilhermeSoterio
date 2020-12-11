@@ -14,8 +14,8 @@ In addition I dedicate a part of my time to other backend languages like Java an
 <center>
 <table>
   <tr>
-  <td><img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoterio&show_icons=true&theme=tokyonight"></td>
-  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoterio&layout=compact&theme=tokyonight"></td>
+  <td><img src="https://github-readme-stats.vercel.app/api?username=GuilhermeSoterio&show_icons=true&theme=synthwave"></td>
+  <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeSoterio&layout=compact&theme=synthwave"></td>
 </tr>   
 </table>
 </center>
