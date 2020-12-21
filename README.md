@@ -7,7 +7,7 @@
 <p>
   
 <p>
-At the beginning of my career, I tried to be aware of and analyze technology companies' demands and understood that being specialist in a certain area is the best way to become more efficient as a developer. That led me to getting more knowledge on JavaScript, which is my main programming language, and I use it with React, but also study Redux, NestJs and PWA. In addition to that, I dedicate part of my time to gaining more expertise in other backend technologies, such as Java and GoLang, so that I become more versatile when it comes to Full Stack development.
+At the beginning of my career, I tried to be aware of technology companies' demands, and got to understand that being specialist in a certain area is the best way to become more efficient as a developer. That led me to getting more knowledge on JavaScript, which is my main programming language, and I use it with React, but also study Redux, NestJs and PWA. In addition to that, I dedicate part of my time to gaining more expertise in other backend technologies, such as Java and GoLang, so that I become more versatile when it comes to Full Stack development.
 </p>
 </br>
 <center>
