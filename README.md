@@ -3,12 +3,11 @@
   <img align='right' src="https://media.tenor.com/images/90a45e0907e938bd9fa2d2396cdbb647/tenor.gif" width="179">
 <p tex-Align="center">
 <img src="https://komarev.com/ghpvc/?username=NaionaraRamos" alt="GuilhermeSoterio" /> <img src="https://img.shields.io/badge/Pronouns-He%2FHim-green" alt="pronouns: He/him" /> </p>
-<p>Web Systems Student at the Federal Institute of Brasília. My priority today is my professional development. With a stack focused on web development: Javascript, React, Java, Spring, GoLang, pre-processors like Sass and Less and automation tools like Gulp. I seek an opportunity to generate value and deliver results.<p>
+<p>Web Systems Student at the Federal Institute of Brasília. My priority at the moment is my professional development. I focus my study on the following technologies: Javascript, React, pre-processors like Sass and Less and automation tools like Gulp. I am looking for an opportunity to generate value and deliver results.
 <p>
   
-At the beginning of my career, I sought to inform myself and analyze the demands of technology companies, understanding that specializing in a specific area is the best way to become more efficient as a developer.
-This led me to know Javascript, which is my main language, and I develop it with React, but I also study Redux, NestJs and PWA.
-In addition I dedicate a part of my time to other backend languages like Java and GoLang to bring me more versatility, molding myself with a skillset more full stack.
+<p>
+At the beginning of my career, I tried to be aware of and analyze technology companies' demands and understood that being specialist in a certain area is the best way to become more efficient as a developer. That led me to getting more knowledge on JavaScript, which is my main programming language, and I use it with React, but also study Redux, NestJs and PWA. In addition to that, I dedicate part of my time to gaining more expertise in other backend technologies, such as Java and GoLang, so that I become more versatile when it comes to Full Stack development.
 </p>
 </br>
 <center>
